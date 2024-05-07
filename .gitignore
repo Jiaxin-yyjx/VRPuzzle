@@ -2,6 +2,8 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
+/Assets/0418_Entire_Interior_Scene.fbx
+/Assets/0418_Entire_Interior_Scene.fbm/0418_Entire_Interior_Scene_u0_v0_diffuse.png
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
