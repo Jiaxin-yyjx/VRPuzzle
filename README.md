@@ -38,3 +38,7 @@ To prepare your target devices for running our application, please follow these 
 - https://assetstore.unity.com/packages/3d/props/weapons/ammo-box-7701
 - https://assetstore.unity.com/packages/3d/props/furniture/table-162871
 - The Low Library model and the arrow are built by the team.
+
+## Project directory overview
+![Low Library](screenshot/directory.png "Project directory overview")
+
