@@ -1,7 +1,7 @@
 # Heritage Exploration
 - Project title: Heritage Exploration in Low Library
-- Demo Video: https://www.youtube.com/watch?v=bgYHRs0gJqY
-
+- Demo Video: [https://www.youtube.com/watch?v=bgYHRs0gJqY
+](https://youtu.be/lhsN17W0KZU)
 ## Team Information
 - **Team Name:** Heritage Exploration
 - **Members:**
