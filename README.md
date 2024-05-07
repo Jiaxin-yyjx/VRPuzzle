@@ -26,6 +26,10 @@ To deploy our application effectively, please follow these steps:
 - Configuration: Adjust the application settings in the VR platform to match the performance requirements, such as resolution and tracking preferences.
 - If Unity shows any warning, just ignore them and click "continue" to enter the project.
 
+### GitHub Repo
+- The files "/Assets/0418_Entire_Interior_Scene.fbx" and "/Assets/0418_Entire_Interior_Scene.fbm/0418_Entire_Interior_Scene_u0_v0_diffuse.png" is too large to controlled by the GitHub.
+- I attached those two files separately in case there is any error in opening them (They are the whole low library building model).
+
 ## Target Preparation Instructions
 To prepare your target devices for running our application, please follow these guidelines:
 
